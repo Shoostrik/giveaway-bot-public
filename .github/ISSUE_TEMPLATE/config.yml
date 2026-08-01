@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Private security report / Приватный отчёт об уязвимости
+    url: https://github.com/Shoostrik/giveaway-bot-public/security/advisories/new
+    about: Never post vulnerability details or personal data in a public Issue.

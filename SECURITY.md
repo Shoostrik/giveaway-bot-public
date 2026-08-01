@@ -6,7 +6,7 @@ Giveaway Bot is in pre-launch development. This repository contains public docum
 
 Do not publish suspected vulnerabilities, personal data, Telegram verification codes, credentials, private links or reproduction details in GitHub Issues or other public channels.
 
-A verified private reporting method will be added before the public service becomes available. Until that method is listed, do not send sensitive vulnerability details through this repository.
+Use [GitHub private vulnerability reporting](https://github.com/Shoostrik/giveaway-bot-public/security/advisories/new) to send suspected vulnerability details confidentially. Do not include personal data, credentials or production secrets unless they are strictly necessary and already sanitized.
 
 A useful future report should include:
 
@@ -26,7 +26,7 @@ Giveaway Bot находится на этапе подготовки к запу
 
 Не публикуйте сведения о возможных уязвимостях, персональные данные, коды подтверждения Telegram, учётные данные, закрытые ссылки и шаги воспроизведения в GitHub Issues или других открытых каналах.
 
-Проверенный конфиденциальный способ связи будет добавлен до открытия публичного сервиса. Пока он не указан, не отправляйте чувствительные сведения об уязвимостях через этот репозиторий.
+Для конфиденциальной отправки сведений о возможной уязвимости используйте [приватные отчёты GitHub](https://github.com/Shoostrik/giveaway-bot-public/security/advisories/new). Не прикладывайте персональные данные, учётные данные и production-секреты, если они не являются строго необходимыми и заранее обезличенными.
 
 Полезное будущее сообщение должно включать:
 

@@ -2,6 +2,22 @@
 
 This file records changes to public materials. Product-development milestones belong in [PROJECT_UPDATES.md](PROJECT_UPDATES.md).
 
+## 2026-08-02
+
+### English
+
+- added Update 010 about the first verified test environment connections;
+- aligned the public roadmap with the repository's open status and configured feedback channels;
+- set the complete journey of one test card as the next public-safe milestone;
+- kept private implementation, infrastructure and external provider details outside the public materials.
+
+### Русский
+
+- добавлено обновление 010 о первых подтверждённых подключениях тестового контура;
+- дорожная карта приведена в соответствие с открытым статусом репозитория и настроенными каналами обратной связи;
+- следующим публично безопасным этапом указан полный путь одной тестовой карточки;
+- закрытая реализация, инфраструктура и сведения о внешнем поставщике не раскрыты.
+
 ## 2026-07-30
 
 ### English

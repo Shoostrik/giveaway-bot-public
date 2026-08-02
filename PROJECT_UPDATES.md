@@ -42,9 +42,19 @@ The first subscription rules were prepared around one main benefit: saving the u
 
 The current work is preparing the product, documentation, privacy and support flow for limited testing before any public launch.
 
+### Update 010 — First test environment connections
+
+Giveaway Bot has taken another step toward closed testing.
+
+We connected a test Telegram bot to a dedicated channel and service group, then confirmed the delivery of test messages. A safe service request also verified connectivity to an external data source.
+
+Everything currently runs in an isolated test environment. Public giveaway publishing and real-user activity have not started yet.
+
+The next milestone is to verify the complete journey of one test card: from receiving and validating the information to publication and subsequent result tracking.
+
 ### Next update
 
-The next entry will be published after a verified closed-testing milestone, not simply because another technical task was completed.
+The next entry will be published after the complete journey of a test card is verified, not simply because another technical task was completed.
 
 ## Русский
 
@@ -86,6 +96,16 @@ The next entry will be published after a verified closed-testing milestone, not 
 
 Сейчас продукт, документация, конфиденциальность и поддержка готовятся к ограниченному тестированию перед любым публичным запуском.
 
+### Обновление 010 — Первые подключения тестового контура
+
+Giveaway Bot сделал следующий шаг к закрытому тестированию.
+
+Мы подключили тестового Telegram-бота к отдельному каналу и служебной группе, а затем подтвердили отправку тестовых сообщений. Также безопасным служебным запросом проверено подключение к внешнему источнику данных.
+
+Всё работает в изолированной тестовой среде. Публичная публикация розыгрышей и работа с реальными пользователями ещё не начались.
+
+Следующий этап — проверить полный путь одной тестовой карточки: от получения и проверки информации до публикации и последующего отслеживания результата.
+
 ### Следующее обновление
 
-Новая запись появится после подтверждённого этапа закрытого тестирования, а не просто после очередной технической задачи.
+Новая запись появится после подтверждения полного пути тестовой карточки, а не просто после очередной технической задачи.

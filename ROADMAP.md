@@ -12,27 +12,29 @@ This roadmap describes public-safe product milestones. It does not expose the pr
 - private technical foundation for collecting, validating and organizing giveaway information tested;
 - private foundations for result checking, matching and notifications prepared;
 - public documentation workspace created;
-- bilingual public texts and publication structure aligned.
+- bilingual public texts and publication structure aligned;
+- public repository opened;
+- public Issues and a private security-reporting channel configured;
+- isolated test Telegram connections and external data-source connectivity verified.
 
 ### In progress
 
 - preparing meaningful development updates as verified milestones are reached;
 - validating closed testing and launch-readiness requirements;
-- preparing a safe feedback and private security-reporting process.
+- verifying the complete journey of one test card.
 
 ### Next
 
+- complete test-card journey from receiving and validation to publication and result tracking;
 - closed testing with limited users;
 - review of publication quality and result-matching clarity;
-- confirmation of public availability, pricing and official links;
-- final privacy, support and security information;
-- separate owner decision to open this repository publicly.
+- final privacy, support and security information.
 
 ### Later
 
 - improvements based on real feedback;
 - optional filters by giveaway direction and prize type;
-- additional markets and payment models only after separate approval.
+- additional markets only after separate approval.
 
 ## Русский
 
@@ -44,24 +46,26 @@ This roadmap describes public-safe product milestones. It does not expose the pr
 - протестирована закрытая техническая основа для сбора, проверки и упорядочивания информации о розыгрышах;
 - подготовлена закрытая основа проверки результатов, сопоставления и уведомлений;
 - создано рабочее пространство публичной документации;
-- согласованы двуязычные публичные тексты и структура публикаций.
+- согласованы двуязычные публичные тексты и структура публикаций;
+- открыт публичный репозиторий;
+- настроены публичные Issues и конфиденциальный канал для сообщений об уязвимостях;
+- проверены изолированные тестовые подключения Telegram и соединение с внешним источником данных.
 
 ### В работе
 
 - подготовка содержательных обновлений по мере подтверждения этапов разработки;
 - проверка требований к закрытому тестированию и готовности к запуску;
-- подготовка безопасной обратной связи и конфиденциального канала для сообщений об уязвимостях.
+- проверка полного пути одной тестовой карточки.
 
 ### Следом
 
+- полный путь тестовой карточки от получения и проверки до публикации и отслеживания результата;
 - закрытое тестирование с ограниченной группой;
 - проверка качества публикаций и понятности сопоставления результатов;
-- подтверждение доступности, стоимости и официальных ссылок;
-- итоговые документы о конфиденциальности, поддержке и безопасности;
-- отдельное решение владельца об открытии этого репозитория.
+- итоговые документы о конфиденциальности, поддержке и безопасности.
 
 ### Позже
 
 - улучшения на основе реальной обратной связи;
 - дополнительные фильтры по направлениям розыгрышей и типам призов;
-- новые рынки и способы оплаты только после отдельного решения.
+- новые рынки только после отдельного решения.

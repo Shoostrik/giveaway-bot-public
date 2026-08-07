@@ -2,6 +2,20 @@
 
 This file records changes to public materials. Product-development milestones belong in [PROJECT_UPDATES.md](PROJECT_UPDATES.md).
 
+## 2026-08-07
+
+### English
+
+- added public-safe Updates 011–013 covering progress in giveaway preparation, result matching and the Telegram user experience;
+- kept the complete test-card journey as a future milestone until it is actually verified;
+- excluded source code, internal algorithms, provider details, infrastructure, credentials, release identifiers and other private implementation information.
+
+### Русский
+
+- добавлены безопасные для публикации обновления 011–013 о развитии подготовки розыгрышей, проверки совпадений и пользовательской части Telegram-бота;
+- полный путь тестовой карточки сохранён как будущий этап до его фактического подтверждения;
+- исходный код, внутренние алгоритмы, сведения о поставщиках, инфраструктура, учётные данные, внутренние номера релизов и другие закрытые детали реализации не раскрыты.
+
 ## 2026-08-02
 
 ### English

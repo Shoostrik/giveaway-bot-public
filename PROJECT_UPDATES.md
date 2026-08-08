@@ -76,9 +76,35 @@ Privacy boundaries are part of this work from the start: the product is designed
 
 This is still pre-launch work. The public bot has not been activated for users.
 
+### Update 014 — Managing names to track
+
+The private user flow now includes a foundation for adding, viewing and managing the names that a user wants Giveaway Bot to check against published results.
+
+This is designed to keep result checking focused on the identifiers the user chooses rather than collecting unrelated account information.
+
+The internal limits, storage model and matching implementation remain private.
+
+### Update 015 — Access status and future plans
+
+A closed pre-launch foundation now allows the product to represent a user's access status and prepare a clear offer before any payment step exists.
+
+Public pricing, discounts and commercial terms are intentionally not published here because they are not active yet.
+
+### Update 016 — Subscription flow prepared without live payments
+
+The private foundation for a future subscription flow has progressed to the point where access can be prepared, confirmed and reconciled in test scenarios.
+
+No real payment provider, live checkout or real-money transaction is active. Payment implementation details and internal records remain private.
+
+### Update 017 — Gift access is being designed
+
+The next product area under design is the ability to provide access as a gift.
+
+This work is currently at the architecture and product-flow stage rather than a launched feature. Final rules, availability and commercial terms will only be published after they are approved and verified.
+
 ### Next update
 
-The next major public milestone remains the verified complete journey of a test card from incoming information through publication and later result tracking. We will publish it only after that journey is actually confirmed.
+The next major public milestone remains a verified end-to-end closed-test journey. New public entries will continue to describe only confirmed product progress without exposing private implementation details.
 
 ## Русский
 
@@ -154,6 +180,32 @@ Giveaway Bot сделал следующий шаг к закрытому тес
 
 Это всё ещё предзапусковая разработка. Публичный бот для пользователей не активирован.
 
+### Обновление 014 — Управление именами для отслеживания
+
+В закрытой пользовательской части появилась основа для добавления, просмотра и управления именами, по которым пользователь хочет проверять опубликованные результаты.
+
+Такой подход позволяет сосредоточить проверку на выбранных самим пользователем идентификаторах, не собирая лишние сведения об аккаунте.
+
+Внутренние лимиты, модель хранения и реализация сопоставления остаются закрытыми.
+
+### Обновление 015 — Статус доступа и будущие тарифы
+
+В предзапусковом контуре подготовлена основа, которая позволяет показывать статус доступа пользователя и формировать понятное предложение до появления реального шага оплаты.
+
+Публичные цены, скидки и коммерческие условия намеренно не публикуются, поскольку они ещё не активированы.
+
+### Обновление 016 — Подписка подготовлена без реальных платежей
+
+Закрытая основа будущей подписки продвинулась до сценариев, в которых доступ можно подготовить, подтвердить и проверить в тестовом режиме.
+
+Реальный платёжный провайдер, публичная оплата и операции с настоящими деньгами не активированы. Детали платёжной реализации и внутренние записи остаются закрытыми.
+
+### Обновление 017 — Проектируется подарочный доступ
+
+Следующая область продукта, над которой началась работа, — возможность предоставить доступ в подарок.
+
+Сейчас это этап архитектуры и проектирования пользовательского сценария, а не запущенная функция. Окончательные правила, доступность и коммерческие условия будут опубликованы только после утверждения и проверки.
+
 ### Следующее обновление
 
-Следующим крупным публичным этапом остаётся подтверждённый полный путь тестовой карточки: от получения информации до публикации и дальнейшей проверки результата. Мы опубликуем это обновление только после фактического подтверждения всего пути.
+Следующим крупным публичным рубежом остаётся подтверждённый полный закрытый тест всего пользовательского пути. Новые записи и дальше будут описывать только подтверждённый прогресс без раскрытия закрытой реализации.

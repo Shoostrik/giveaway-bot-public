@@ -2,6 +2,20 @@
 
 This file records changes to public materials. Product-development milestones belong in [PROJECT_UPDATES.md](PROJECT_UPDATES.md).
 
+## 2026-08-08
+
+### English
+
+- added public-safe Updates 014–017 about tracked names, access status, subscription preparation and gift-access design;
+- kept pricing, discounts, payment-provider details, internal limits, storage models and implementation details private;
+- explicitly stated that real payments and public activation are not live.
+
+### Русский
+
+- добавлены безопасные для публикации обновления 014–017 об отслеживаемых именах, статусе доступа, подготовке подписки и проектировании подарочного доступа;
+- цены, скидки, сведения о платёжных провайдерах, внутренние лимиты, модели хранения и детали реализации оставлены закрытыми;
+- отдельно указано, что реальные платежи и публичная активация не запущены.
+
 ## 2026-08-07
 
 ### English

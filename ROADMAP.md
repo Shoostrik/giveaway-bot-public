@@ -11,6 +11,10 @@ This roadmap describes public-safe product milestones. It does not expose the pr
 - daily and weekly publication formats designed;
 - private technical foundation for collecting, validating and organizing giveaway information tested;
 - private foundations for result checking, matching and notifications prepared;
+- private support and FAQ foundation prepared;
+- private weekly results digest foundation prepared;
+- compact privacy-conscious internal analytics foundation prepared;
+- all 14 planned product and technical sections of the current MVP foundation completed in the private repository;
 - public documentation workspace created;
 - bilingual public texts and publication structure aligned;
 - public repository opened;
@@ -19,22 +23,25 @@ This roadmap describes public-safe product milestones. It does not expose the pr
 
 ### In progress
 
-- preparing meaningful development updates as verified milestones are reached;
-- validating closed testing and launch-readiness requirements;
-- verifying the complete journey of one test card.
+- launch-readiness review of the completed MVP foundation;
+- preparation of controlled closed testing;
+- verification of the complete user journey;
+- review of publication quality, result clarity, privacy and support behavior.
 
 ### Next
 
-- complete test-card journey from receiving and validation to publication and result tracking;
-- closed testing with limited users;
-- review of publication quality and result-matching clarity;
-- final privacy, support and security information.
+- isolated staging validation;
+- controlled end-to-end testing;
+- limited closed testing with selected users;
+- correction of launch blockers found during testing;
+- separate public-launch decision only after readiness is confirmed.
 
 ### Later
 
 - improvements based on real feedback;
-- optional filters by giveaway direction and prize type;
-- additional markets only after separate approval.
+- richer filtering and personalization;
+- additional user interfaces;
+- additional supported giveaway sources and markets only after separate validation and approval.
 
 ## Русский
 
@@ -45,6 +52,10 @@ This roadmap describes public-safe product milestones. It does not expose the pr
 - разработаны форматы ежедневных и еженедельных публикаций;
 - протестирована закрытая техническая основа для сбора, проверки и упорядочивания информации о розыгрышах;
 - подготовлена закрытая основа проверки результатов, сопоставления и уведомлений;
+- подготовлена закрытая основа поддержки и FAQ;
+- подготовлена закрытая основа недельной сводки результатов;
+- подготовлена компактная внутренняя аналитика с ограничением лишних персональных идентификаторов;
+- в закрытом репозитории завершены все 14 запланированных продуктовых и технических разделов текущей основы MVP;
 - создано рабочее пространство публичной документации;
 - согласованы двуязычные публичные тексты и структура публикаций;
 - открыт публичный репозиторий;
@@ -53,19 +64,22 @@ This roadmap describes public-safe product milestones. It does not expose the pr
 
 ### В работе
 
-- подготовка содержательных обновлений по мере подтверждения этапов разработки;
-- проверка требований к закрытому тестированию и готовности к запуску;
-- проверка полного пути одной тестовой карточки.
+- проверка готовности завершённой основы MVP к запуску;
+- подготовка контролируемого закрытого тестирования;
+- проверка полного пользовательского пути;
+- проверка качества публикаций, понятности результатов, конфиденциальности и поддержки.
 
 ### Следом
 
-- полный путь тестовой карточки от получения и проверки до публикации и отслеживания результата;
-- закрытое тестирование с ограниченной группой;
-- проверка качества публикаций и понятности сопоставления результатов;
-- итоговые документы о конфиденциальности, поддержке и безопасности.
+- проверка изолированного staging-контура;
+- контролируемое end-to-end тестирование;
+- закрытое тестирование с ограниченной группой пользователей;
+- исправление блокеров запуска, найденных во время тестирования;
+- отдельное решение о публичном запуске только после подтверждения готовности.
 
 ### Позже
 
 - улучшения на основе реальной обратной связи;
-- дополнительные фильтры по направлениям розыгрышей и типам призов;
-- новые рынки только после отдельного решения.
+- более развитые фильтры и персонализация;
+- дополнительные пользовательские интерфейсы;
+- новые источники розыгрышей и рынки только после отдельной проверки и решения.

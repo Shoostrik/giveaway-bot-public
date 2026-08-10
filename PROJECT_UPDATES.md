@@ -96,15 +96,56 @@ The private foundation for a future subscription flow has progressed to the poin
 
 No real payment provider, live checkout or real-money transaction is active. Payment implementation details and internal records remain private.
 
-### Update 017 — Gift access is being designed
+### Update 017 — Gift access foundation completed
 
-The next product area under design is the ability to provide access as a gift.
+The private pre-launch foundation for gift access has been completed.
 
-This work is currently at the architecture and product-flow stage rather than a launched feature. Final rules, availability and commercial terms will only be published after they are approved and verified.
+The product can now represent the basic flow of purchasing access for another person and activating that access for the recipient in test scenarios.
+
+This remains pre-launch functionality. Real payments, public availability, pricing and commercial terms are not active.
+
+### Update 018 — Support and FAQ foundation completed
+
+The private product foundation now includes a structured support and FAQ flow.
+
+The goal is to give users clear explanations about the product, its current limitations and the status of unavailable features without exposing internal implementation details.
+
+Public support channels and final operating rules will be confirmed separately before launch.
+
+### Update 019 — Weekly results digest foundation completed
+
+A private foundation for weekly giveaway result summaries has been completed.
+
+The product can prepare a compact weekly view of completed giveaways and published results while keeping individual result checking separate from public summaries.
+
+Public weekly delivery has not been activated yet.
+
+### Update 020 — Compact internal analytics foundation completed
+
+The private product foundation now includes compact aggregated analytics for understanding how the system behaves during testing.
+
+This analytics layer is intentionally limited to operational and product-level aggregates and is designed without exposing unnecessary personal identifiers.
+
+There is no public analytics dashboard at this stage.
+
+### Update 021 — The planned MVP foundation is complete
+
+All 14 planned product and technical sections of the current MVP foundation have now been completed in the private repository.
+
+This is an important development milestone, but it does not mean the product has launched.
+
+The project is still pre-launch:
+- public deployment has not started;
+- real payments are not active;
+- public giveaway publishing is not active;
+- production environments are not live;
+- closed readiness review and controlled testing still come first.
+
+The next phase is focused on launch readiness, closed testing and validating the complete user journey before any public release.
 
 ### Next update
 
-The next major public milestone remains a verified end-to-end closed-test journey. New public entries will continue to describe only confirmed product progress without exposing private implementation details.
+New public entries will continue to describe only verified product progress without exposing private implementation details.
 
 ## Русский
 
@@ -200,12 +241,53 @@ Giveaway Bot сделал следующий шаг к закрытому тес
 
 Реальный платёжный провайдер, публичная оплата и операции с настоящими деньгами не активированы. Детали платёжной реализации и внутренние записи остаются закрытыми.
 
-### Обновление 017 — Проектируется подарочный доступ
+### Обновление 017 — Подготовлена основа подарочного доступа
 
-Следующая область продукта, над которой началась работа, — возможность предоставить доступ в подарок.
+В закрытом предзапусковом контуре завершена базовая основа подарочного доступа.
 
-Сейчас это этап архитектуры и проектирования пользовательского сценария, а не запущенная функция. Окончательные правила, доступность и коммерческие условия будут опубликованы только после утверждения и проверки.
+Продукт уже может представлять основной сценарий покупки доступа для другого человека и его последующей активации получателем в тестовых сценариях.
+
+Функция пока не запущена публично. Реальные платежи, публичная доступность, стоимость и коммерческие условия не активированы.
+
+### Обновление 018 — Подготовлена основа поддержки и FAQ
+
+В закрытой версии продукта завершена базовая структура поддержки и FAQ.
+
+Цель — давать пользователю понятные объяснения о работе сервиса, его текущих ограничениях и статусе недоступных функций без раскрытия внутренней реализации.
+
+Публичные каналы поддержки и окончательные правила их работы будут утверждены отдельно перед запуском.
+
+### Обновление 019 — Подготовлена недельная сводка результатов
+
+В закрытом контуре завершена основа недельной сводки результатов розыгрышей.
+
+Продукт может формировать компактный список завершённых розыгрышей и опубликованных результатов, при этом персональная проверка победителей остаётся отдельной функцией.
+
+Публичная рассылка недельных итогов пока не активирована.
+
+### Обновление 020 — Подготовлена компактная внутренняя аналитика
+
+В закрытом контуре появилась компактная агрегированная аналитика для понимания того, как продукт работает во время тестирования.
+
+Она ограничена операционными и продуктовыми показателями и проектируется без лишнего использования персональных идентификаторов.
+
+Публичной аналитической панели на этом этапе нет.
+
+### Обновление 021 — Завершена запланированная основа MVP
+
+В закрытом репозитории завершены все 14 запланированных продуктовых и технических разделов текущей основы MVP.
+
+Это важный этап разработки, но он не означает запуск продукта.
+
+Проект всё ещё находится на предзапусковой стадии:
+- публичный deploy не выполнялся;
+- реальные платежи не активированы;
+- публичная публикация розыгрышей не запущена;
+- production-среды не работают;
+- впереди отдельная проверка готовности и контролируемое тестирование.
+
+Следующий этап — проверка готовности к запуску, закрытое тестирование и проверка полного пользовательского пути до любого публичного релиза.
 
 ### Следующее обновление
 
-Следующим крупным публичным рубежом остаётся подтверждённый полный закрытый тест всего пользовательского пути. Новые записи и дальше будут описывать только подтверждённый прогресс без раскрытия закрытой реализации.
+Новые публичные записи и дальше будут описывать только подтверждённый прогресс без раскрытия закрытой реализации.

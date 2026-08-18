@@ -19,21 +19,23 @@ This roadmap describes public-safe product milestones. It does not expose the pr
 - bilingual public texts and publication structure aligned;
 - public repository opened;
 - public Issues and a private security-reporting channel configured;
-- isolated test Telegram connections and external data-source connectivity verified.
+- isolated test Telegram connections and external data-source connectivity verified;
+- controlled staging environment activated and verified;
+- Mini App staging access and test-bot launch verified without production activation.
 
 ### In progress
 
-- launch-readiness review of the completed MVP foundation;
-- preparation of controlled closed testing;
-- verification of the complete user journey;
+- end-to-end launch-readiness review of the completed MVP;
+- controlled staging validation of the complete user journey;
+- preparation of the separate Russian production environment;
 - review of publication quality, result clarity, privacy and support behavior.
 
 ### Next
 
-- isolated staging validation;
-- controlled end-to-end testing;
+- complete end-to-end staging validation;
 - limited closed testing with selected users;
 - correction of launch blockers found during testing;
+- provision and verification of the isolated Russian production environment;
 - separate public-launch decision only after readiness is confirmed.
 
 ### Later
@@ -60,22 +62,24 @@ This roadmap describes public-safe product milestones. It does not expose the pr
 - согласованы двуязычные публичные тексты и структура публикаций;
 - открыт публичный репозиторий;
 - настроены публичные Issues и конфиденциальный канал для сообщений об уязвимостях;
-- проверены изолированные тестовые подключения Telegram и соединение с внешним источником данных.
+- проверены изолированные тестовые подключения Telegram и соединение с внешним источником данных;
+- активирован и проверен контролируемый staging-контур;
+- подтверждены staging-доступ к Mini App и запуск через тестового Telegram-бота без активации production.
 
 ### В работе
 
-- проверка готовности завершённой основы MVP к запуску;
-- подготовка контролируемого закрытого тестирования;
-- проверка полного пользовательского пути;
+- сквозная проверка готовности завершённого MVP к запуску;
+- проверка полного пользовательского пути в контролируемом staging-контуре;
+- подготовка отдельного российского production-контура;
 - проверка качества публикаций, понятности результатов, конфиденциальности и поддержки.
 
 ### Следом
 
-- проверка изолированного staging-контура;
-- контролируемое end-to-end тестирование;
-- закрытое тестирование с ограниченной группой пользователей;
-- исправление блокеров запуска, найденных во время тестирования;
-- отдельное решение о публичном запуске только после подтверждения готовности.
+- завершить сквозную проверку staging;
+- провести закрытое тестирование с ограниченной группой пользователей;
+- исправить блокеры запуска, найденные во время тестирования;
+- подготовить и проверить изолированный российский production-контур;
+- принять отдельное решение о публичном запуске только после подтверждения готовности.
 
 ### Позже
 

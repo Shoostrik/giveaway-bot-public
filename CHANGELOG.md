@@ -2,6 +2,22 @@
 
 This file records changes to public materials. Product-development milestones belong in [PROJECT_UPDATES.md](PROJECT_UPDATES.md).
 
+## 2026-08-18
+
+### English
+
+- added public-safe launch-readiness updates after completion of the planned MVP foundation;
+- reflected verified controlled staging, Mini App staging access, test-bot launch and offline Russian production preparation;
+- refreshed the public roadmap to match the verified pre-launch state;
+- kept hosts, routes, server details, credentials, database details, internal release identifiers and private implementation information outside public materials.
+
+### Русский
+
+- добавлены безопасные для публикации обновления этапа launch-readiness после завершения запланированной основы MVP;
+- отражены подтверждённый контролируемый staging, staging-доступ к Mini App, запуск через тестового бота и офлайн-подготовка российского production-контура;
+- публичная дорожная карта приведена в соответствие с подтверждённым предзапусковым состоянием;
+- адреса, маршруты, серверные сведения, учётные данные, детали баз данных, внутренние номера релизов и закрытая реализация не раскрыты.
+
 ## 2026-08-08
 
 ### English

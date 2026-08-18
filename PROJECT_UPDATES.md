@@ -143,9 +143,41 @@ The project is still pre-launch:
 
 The next phase is focused on launch readiness, closed testing and validating the complete user journey before any public release.
 
+### Update 022 — Controlled staging is running
+
+A dedicated controlled staging environment is now active for pre-launch verification.
+
+The project has passed the staging checks needed to continue testing the real application runtime and the prepared product foundation outside the purely local development environment.
+
+Staging remains a test environment. It is not the public product, and real payments or production user activity are not enabled.
+
+### Update 023 — Mini App staging access verified
+
+The Mini App has reached a verified staging-access milestone.
+
+Its staging entry point and application responses have passed controlled availability and safety checks, allowing the team to test the user-facing interface in a real staging environment without activating production.
+
+Private infrastructure, routing and security implementation details remain outside this repository.
+
+### Update 024 — Telegram test-bot Mini App launch verified
+
+The Mini App can now be opened from the dedicated Telegram test bot in the controlled staging environment.
+
+This verifies an important part of the intended user entry path: opening the interface from Telegram and reaching the staging application successfully.
+
+This is still closed testing. The public production bot and real-user launch have not been activated.
+
+### Update 025 — Russian production preparation advances offline
+
+Preparation for a future separate Russian production environment has moved forward without activating production.
+
+The readiness gaps were reviewed, the isolated production foundation was designed, and its offline safety and readiness materials were verified before any server provisioning or live deployment.
+
+The Russian production environment is not live. No real payments, production user data or public activation are included in this milestone.
+
 ### Next update
 
-New public entries will continue to describe only verified product progress without exposing private implementation details.
+The current focus is end-to-end launch-readiness verification, closed staging testing and preparation of the isolated Russian production environment. New public entries will continue to describe only verified progress without exposing private implementation details.
 
 ## Русский
 
@@ -288,6 +320,38 @@ Giveaway Bot сделал следующий шаг к закрытому тес
 
 Следующий этап — проверка готовности к запуску, закрытое тестирование и проверка полного пользовательского пути до любого публичного релиза.
 
+### Обновление 022 — Запущен контролируемый staging
+
+Для предзапусковой проверки теперь работает отдельный контролируемый staging-контур.
+
+Проект прошёл необходимые staging-проверки, чтобы продолжить тестирование реального runtime приложения и подготовленной основы продукта уже вне чисто локальной среды разработки.
+
+Staging остаётся тестовой средой. Это не публичный продукт, реальные платежи и работа production-пользователей не включены.
+
+### Обновление 023 — Проверен staging-доступ к Mini App
+
+Mini App достигла подтверждённого этапа доступа в staging.
+
+Точка входа и ответы приложения в staging прошли контролируемые проверки доступности и безопасности, поэтому пользовательский интерфейс можно тестировать в реальной staging-среде без активации production.
+
+Закрытые сведения об инфраструктуре, маршрутизации и реализации защиты в публичный репозиторий не выносятся.
+
+### Обновление 024 — Проверен запуск Mini App через тестового Telegram-бота
+
+Mini App теперь открывается из отдельного тестового Telegram-бота в контролируемом staging-контуре.
+
+Это подтверждает важную часть будущего пользовательского пути: открытие интерфейса из Telegram и успешный переход в staging-приложение.
+
+Это по-прежнему закрытое тестирование. Публичный production-бот и запуск для реальных пользователей не активированы.
+
+### Обновление 025 — Продвинулась офлайн-подготовка российского production-контура
+
+Подготовка будущего отдельного российского production-контура продвинулась без активации production.
+
+Проведена проверка оставшихся требований к готовности, спроектирована изолированная production-основа и проверены её офлайн-материалы безопасности и готовности до покупки сервера или реального развёртывания.
+
+Российский production-контур не запущен. Реальные платежи, production-данные пользователей и публичная активация в этот этап не входят.
+
 ### Следующее обновление
 
-Новые публичные записи и дальше будут описывать только подтверждённый прогресс без раскрытия закрытой реализации.
+Сейчас основной фокус — сквозная проверка готовности к запуску, закрытое тестирование staging и подготовка изолированного российского production-контура. Публичные записи и дальше будут отражать только подтверждённый прогресс без раскрытия закрытой реализации.
